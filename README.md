@@ -1,4 +1,4 @@
-AI Product Recommendation System
+**AI Product Recommendation System**
 
 A full-stack web application that recommends products based on user preferences using FastAPI, React, and Groq LLaMA 3.1 models.
 
